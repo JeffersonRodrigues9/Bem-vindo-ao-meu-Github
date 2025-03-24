@@ -60,6 +60,23 @@ Além disso, busquei aprimorar meu conhecimento através de cursos em instituiç
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Excel" 
+    title="Excel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftexcel/microsoftexcel-original.svg" 
+/>
+
 <br/>
 <br/>
 
