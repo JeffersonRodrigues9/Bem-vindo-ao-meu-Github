@@ -48,15 +48,6 @@ Além disso, busquei aprimorar meu conhecimento através de cursos em instituiç
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="VBA" 
-    title="VBA"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vba/vba-original.svg" 
-/>
-
 <br/>
 <br/>
 
