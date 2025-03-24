@@ -62,11 +62,11 @@ Além disso, busquei aprimorar meu conhecimento através de cursos em instituiç
 
 <img 
     align="left" 
-    alt="Excel" 
-    title="Excel"
+    alt="Power BI" 
+    title="Power BI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Microsoft_Excel_Logo_2021.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/2/29/Power_BI_Logo.svg" 
 />
 
 
