@@ -71,11 +71,11 @@ Além disso, busquei aprimorar meu conhecimento através de cursos em instituiç
 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="GitHub" 
+    title="GitHub"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 
 <br/>
