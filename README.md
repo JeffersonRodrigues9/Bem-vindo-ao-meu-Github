@@ -9,6 +9,7 @@ Atualmente, estou explorando como as ferramentas e técnicas de BI e Machine Lea
 Além disso, busquei aprimorar meu conhecimento através de cursos em instituições como PUCRS, FIAP, Data Science Academy e Alura, onde continuo a expandir minhas habilidades e conhecimentos na área.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bigjeeh)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jefferson-rodrigues-da-silva)
 ---
 
 ### 🤖 Linguagens e Tecnologias
