@@ -66,16 +66,9 @@ Além disso, busquei aprimorar meu conhecimento através de cursos em instituiç
     title="Power BI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/4/47/Power_BI_Logo.png" 
 />
-<img 
-    align="left" 
-    alt="Excel" 
-    title="Excel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftexcel/microsoftexcel-original.svg" 
-/>
+
 
 <br/>
 <br/>
