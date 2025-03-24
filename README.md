@@ -71,23 +71,12 @@ Além disso, busquei aprimorar meu conhecimento através de cursos em instituiç
 
 <img 
     align="left" 
-    alt="GitHub" 
-    title="GitHub"
+    alt="Git" 
+    title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<svg
-    xmlns="http://www.w3.org/2000/svg"
-    viewBox="0 0 24 24"
-    width="30px"
-    height="30px"
-    style="fill: #6a1b9a; padding-right: 10px;"
->
-    <path d="M12 0C5.373 0 0 5.373 0 12c0 5.303 3.438 9.804 8.207 11.387.6.11.823-.261.823-.58 0-.286-.01-1.046-.02-2.058-3.338.725-4.04-1.559-4.04-1.559-.544-1.38-1.33-1.749-1.33-1.749-1.086-.744.083-.73.083-.73 1.201.084 1.832 1.231 1.832 1.231 1.064 1.82 2.795 1.295 3.481.991.107-.774.417-1.296.758-1.595-2.664-.303-5.467-1.334-5.467-5.933 0-1.309.47-2.381 1.24-3.22-.125-.303-.538-1.522.118-3.17 0 0 1.008-.323 3.296 1.231 1.351-.375 2.79-.562 4.211-.569 1.422.007 2.86.197 4.211.569 2.288-1.554 3.296-1.231 3.296-1.231.656 1.648.243 2.869.118 3.17.77.839 1.24 1.911 1.24 3.22 0 4.61-2.803 5.63-5.467 5.933.343.299.648.888.648 1.786 0 1.289-.01 2.393-.01 2.717 0 .32.222.693.83.58C20.562 21.804 24 17.303 24 12c0-6.627-5.373-12-12-12z"/>
-</svg>
-
 
 <br/>
 <br/>
